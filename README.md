@@ -13,7 +13,7 @@ This project helped our team familiarize themselves with notion upto an extent a
 Other team Members: 
 
 
-->[ShubhKanodia](https://github.com/ShubhKanodia)
+->[SowmeshSharma0411](https://github.com/SowmeshShamrma0411)
 
 
 ->Abhiram
